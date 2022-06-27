@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+.title{
+    color: greenyellow;
+    outline-color: aliceblue;
+    font-size: 68px;
+    text-align: center;
+}
