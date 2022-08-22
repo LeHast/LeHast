@@ -8,3 +8,9 @@ body{
     font-size: 68px;
     text-align: center;
 }
+
+#indexmenu{
+    position: relative;
+    width: 20%;
+    background-color: aliceblue;
+}
